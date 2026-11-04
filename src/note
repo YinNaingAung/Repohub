@@ -1,0 +1,15 @@
+Web Project Asset Management Structural Mind Map
+Architecture & Dependencies of Stylesheets, Icons, and JavaScript Modules
+Web Project Assets Setup
+CSS / Stylesheets
+JavaScript / Interactivity
+Font Awesome (all.min.css)
+Custom Styles (cus.scss)
+Bootstrap JS Integration
+bootstrap.bundle.min.js
+bootstrap.min.js
+Full compressed icon library
+Compiles custom Bootstrap theme variables
+Includes Popper.js • Powers Dropdowns & Tooltips
+Bootstrap Core Only • Lighter • Needs Manual Popper
+
